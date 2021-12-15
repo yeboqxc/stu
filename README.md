@@ -1,2 +1,2 @@
 # stu
-data of master
+student information manager by java Arraylist 
